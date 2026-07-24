@@ -15,5 +15,5 @@ This project demonstrates hosting a static website using Amazon S3.
 - Bucket Policies
 - Public Access Configuration
 
-## Website
+## Website In
 Hosted using Amazon S3 Static Website Hosting.
